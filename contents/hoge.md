@@ -3,6 +3,11 @@
 ### ろーかる
 - [x] npm ci
 - [x] npx textlint contents/hoge.md
+- [x] daggerの実行
+
+## Actions
+- [x] 初期状態でworkflow発火
+- [x] daggerの実行
 
 ## ここから先はエラー吐かせる用テキスト
 あああ あああああ
